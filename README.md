@@ -4,7 +4,7 @@
 - 🤓 Tenho conhecimento em C#, Desenvolvimento web com Asp.Net, Banco de Dados SQL, Git/Github, Html, Css e JavaScript.
 - ✅ Esse Perfil é para postar os projetos feitos tanto básico quanto avançado!
 
-"Consitência de longo prazo supera intensidade do curto prazo." - Bruce Lee
+"Consistência de longo prazo supera intensidade do curto prazo." - Bruce Lee
 
  <div align="center">
   <a href="https://github.com/mariofneto">
