@@ -1,7 +1,10 @@
-### "Olá mundo", eu sou o mariofneto 👋
+### "Olá mundo", eu sou o Mário Ferreira Da Silva Neto 👋
 
-- 🔭 Estou em busca do meu primeiro emprego na Área de Desenvolvedor Front-End...
-- 🤓 Estudando Html, Css e JavaScript
+- 🔭 Estou em busca do meu primeiro emprego/estágio na Área de Desenvolvedor .Net
+- 🤓 Tenho conhecimento em C#, Desenvolvimento web com Asp.Net, Banco de Dados SQL, Git/Github, Html, Css e JavaScript.
+- ✅ Esse Perfil é para postar os projetos feitos tanto básico quanto avançado!
+
+"Consitência de longo prazo supera intensidade do curto prazo." - Bruce Lee
 
  <div align="center">
   <a href="https://github.com/mariofneto">
