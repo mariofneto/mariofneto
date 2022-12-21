@@ -14,11 +14,11 @@
 </div>
  
  ### Habilidades:
- <div style="display: inline_block"><br>
-  <img align="center" alt="Mario-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Mario-Dotnet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg">
-  <img align="center" alt="Mario-SqlServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">    
-  <img align="center" alt="Mario-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+ <div style="display: inline"><br>
+  <img align="center" alt="Mario-Csharp" height=30 width=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
+  <img align="center" alt="Mario-Dotnet" height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"/>
+  <img align="center" alt="Mario-SqlServer" height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/>    
+  <img align="center" alt="Mario-Git" height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 </div><br>
 
   
