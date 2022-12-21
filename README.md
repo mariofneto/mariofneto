@@ -13,12 +13,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariofneto&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
- ### Habilidades:
+ ### Ferramentas e Tecnologias:
  <div style="display: inline"><br>
-  <img align="center" alt="Mario-Csharp" height=30 width=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
-  <img align="center" alt="Mario-Dotnet" height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"/>
-  <img align="center" alt="Mario-SqlServer" height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/>    
-  <img align="center" alt="Mario-Git" height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img style="width: 60px;" align="center" alt="Mario-Csharp" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
+  <img style="width: 60px;" align="center" alt="Mario-Dotnet" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"/>
+  <img style="width: 60px;" align="center" alt="Mario-SqlServer" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/>    
+  <img style="width: 60px;" align="center" alt="Mario-Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 </div><br>
 
   
