@@ -9,8 +9,8 @@
  <div align="center">
   <a href="https://github.com/mariofneto">
   <img height="180em" src="https://streak-stats.demolab.com?user=mariofneto&theme=dracula&date_format=j%20M%5B%20Y%5D"/>
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariofneto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariofneto&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariofneto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariofneto&layout=compact&langs_count=7&theme=dracula"/> -->
 </div>
  
  ### Ferramentas e Tecnologias:
