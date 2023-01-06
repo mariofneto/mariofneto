@@ -1,7 +1,7 @@
 ### "Olá mundo", eu sou o Mário Ferreira Da Silva Neto 👋
 
 - 🔭 Estou em busca do meu primeiro emprego/estágio na Área de Desenvolvedor .Net
-- 🤓 Tenho conhecimento em C#, DotNet6, SQL Server, Entity Framework, Git/Github e Estou estudando no momento ASP.Net6 MVC
+- 🤓 Tenho conhecimento em C#, DotNet6, SQL Server, Entity Framework, Git/Github e Estou estudando no momento Asp.Net Core MVC
 - ✅ Esse Perfil é para postar os projetos feitos tanto básico quanto avançado!
 
 "Consistência de longo prazo supera intensidade do curto prazo." - Bruce Lee
