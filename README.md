@@ -1,7 +1,6 @@
-### "Olá mundo", eu sou o Mário Ferreira Da Silva Neto 👋
+### "Olá mundo", eu sou Mário Neto 👋
 
-- 🔭 Estou em busca do meu primeiro emprego/estágio na Área de Desenvolvedor .Net
-- 🤓 Tenho conhecimento em C#, DotNet6, SQL Server, Entity Framework, Git/Github e Estou estudando no momento Asp.Net Core MVC
+- 🤓 Compartilhando minha jornada no aprendizado de <b>JAVA</b>
 - ✅ Esse Perfil é para postar os projetos feitos tanto básico quanto avançado!
 
 "Consistência de longo prazo supera intensidade do curto prazo." - Bruce Lee
@@ -15,19 +14,17 @@
  
  ### Ferramentas e Tecnologias:
  <div style="display: inline"><br>
-  <img style="width: 60px;" align="center" alt="Mario-Csharp" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
-  <img style="width: 60px;" align="center" alt="Mario-Dotnet" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"/>
-  <img style="width: 60px;" align="center" alt="Mario-SqlServer" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/>    
-  <img style="width: 60px;" align="center" alt="Mario-Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img style="width: 60px;" align="center" alt="Mario-Java" src="https://cdn-icons-png.flaticon.com/512/226/226777.png?w=740&t=st=1689372664~exp=1689373264~hmac=7e129f374fc5e64de3ccf736e09ace74e212f82a3b15b599835683c90c4b3a78"/>
+  <img style="width: 50px;" align="center" alt="Mario-MySql" src="https://www.svgrepo.com/show/355133/mysql.svg"/>    
+  <!--<img style="width: 60px;" align="center" alt="Mario-Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>-->
 </div><br>
 
   
   
-### Redes Socias:
+### Contato:
 <div><br>
   <a href="https://www.linkedin.com/in/mariofneto/?_l=pt_BR" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href = "marioo.netoo3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/_mariofneto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
   
  
