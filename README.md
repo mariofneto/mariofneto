@@ -15,9 +15,9 @@
  ### Ferramentas e Tecnologias:
  <div style="display: inline"><br>
   <img style="width: 60px;" align="center" alt="Mario-Java" src="https://cdn-icons-png.flaticon.com/512/226/226777.png?w=740&t=st=1689372664~exp=1689373264~hmac=7e129f374fc5e64de3ccf736e09ace74e212f82a3b15b599835683c90c4b3a78"/>
-  <!--<img style="width: 50px;" align="center" alt="Mario-Spring" src="https://www.svgrepo.com/show/376350/spring.svg"/>-->
-  <!--<img style="width: 50px;" align="center" alt="Mario-Postgresql" src="https://www.svgrepo.com/show/354200/postgresql.svg"/>-->
-  <!--<img style="width: 60px;" align="center" alt="Mario-Git" src="https://www.svgrepo.com/show/452210/git.svg"/>-->
+  <img style="width: 50px;" align="center" alt="Mario-Spring" src="https://www.svgrepo.com/show/376350/spring.svg"/>
+  <img style="width: 50px;" align="center" alt="Mario-Postgresql" src="https://www.svgrepo.com/show/354200/postgresql.svg"/>
+  <img style="width: 60px;" align="center" alt="Mario-Git" src="https://www.svgrepo.com/show/452210/git.svg"/>
 </div><br>
 
   
