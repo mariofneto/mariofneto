@@ -1,6 +1,6 @@
 ### "Olá mundo", eu sou Mário Neto 👋
 
-- 🤓 Sou Desenvolvedor Backend <b>PHP</b> Freelancer
+- 🤓 Sou Desenvolvedor Backend <b>JAVA</b> Freelancer
 - ✅ Esse Perfil é para postar os projetos feitos tanto básico quanto avançado!
 
 "Consistência de longo prazo supera intensidade do curto prazo." - Bruce Lee
